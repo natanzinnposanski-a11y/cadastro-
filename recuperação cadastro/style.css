@@ -1,0 +1,54 @@
+h1 {
+    align-items: center;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: black(49, 9, 194);
+    max-width: 800px;
+    margin: 40px auto;
+
+}
+
+h1, h2 {
+    text-align: center;
+}
+
+#formulario {
+    background-color: black(24, 28, 83);
+    padding: 20px;
+    border-radius: 10px;
+
+}
+
+input, select, button {
+    display: block;
+    width: 100%;
+    margin-bottom: 10px;
+    padding: 10px;
+    box-sizing: border-box;
+}
+
+button {
+    cursor: pointer;
+}
+
+
+
+.card-alunos {
+    background-color: aqua;
+    width: 200px;
+    padding: 15px;
+    border-radius: 10px;
+    text-align: center;
+}
+
+
+
+.remover {
+    background-color: chocolate;
+}
+
+label {
+    color: black;
+}
